@@ -1,4 +1,4 @@
-languages = ['python', 'perl', 'c', 'java']
+languages = ['python', 'perl', 'c', 'java', 'hi']
 
 for lang in languages:
     if lang in ['python', 'perl']:
