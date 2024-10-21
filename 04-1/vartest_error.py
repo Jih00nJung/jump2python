@@ -4,3 +4,4 @@ def vartest(a):
 
 vartest(3)
 print(a)
+

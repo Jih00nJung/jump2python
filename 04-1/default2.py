@@ -1,5 +1,5 @@
 # default2.py
-def say_myself(name, man=True, old): 
+def say_myself(name, man = True, old):
     print("나의 이름은 %s 입니다." % name) 
     print("나이는 %d살입니다." % old) 
     if man: 
